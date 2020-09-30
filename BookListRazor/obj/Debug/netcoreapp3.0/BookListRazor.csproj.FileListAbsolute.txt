@@ -370,3 +370,4 @@ D:\Carlos Girón\Proyectos\Repos-Visual Estudio\UMG\BookListRazor\BookListRazor\
 D:\Carlos Girón\Proyectos\Repos-Visual Estudio\UMG\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\BookListRazor.MvcApplicationPartsAssemblyInfo.cs
 D:\Carlos Girón\Proyectos\Repos-Visual Estudio\UMG\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\BookListRazor.MvcApplicationPartsAssemblyInfo.cache
 D:\Carlos Girón\Proyectos\Repos-Visual Estudio\UMG\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Index.cshtml.g.cs
+D:\Carlos Girón\Proyectos\Repos-Visual Estudio\UMG\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Create.cshtml.g.cs
